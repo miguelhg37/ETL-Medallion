@@ -13,7 +13,7 @@ Este proyecto implementa un pipeline de datos **end-to-end** en **Azure Databric
 
 El flujo fue diseñado con enfoque de ingeniería de datos moderna, incorporando:
 
-- separación por capas
+- separación por capas.
 - reglas de calidad de datos
 - persistencia en **Delta Lake**
 - parametrización mediante widgets
